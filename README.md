@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Third-party reference snapshot / read-only source.** This repository is a private snapshot of [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents), preserved under the upstream Apache-2.0 license. The exact 74-blob snapshot from commit `390ea3460053b3cbc9f17bf38661c066b6316e4c` is stored in `private-reference-archive/agent-frameworks/tradingagents-reference/snapshot/`. It is not an authored portfolio project.
+
 <p align="center">
   <img src="assets/TauricResearch.png" style="width: 60%; height: auto;">
 </p>
